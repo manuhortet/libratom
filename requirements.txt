@@ -4,8 +4,6 @@
 #
 #    pip-compile --output-file=requirements.txt requirements.in
 #
-annotated-types==0.5.0
-    # via pydantic
 attrs==23.1.0
     # via
     #   jsonschema
@@ -84,14 +82,12 @@ preshed==3.0.8
     #   thinc
 psutil==5.9.5
     # via -r requirements.in
-pydantic==2.0
+pydantic==1.10.12
     # via
     #   -r requirements.in
     #   confection
     #   spacy
     #   thinc
-pydantic-core==2.0.1
-    # via pydantic
 referencing==0.30.2
     # via
     #   jsonschema
@@ -142,7 +138,6 @@ typer==0.9.0
 typing-extensions==4.7.1
     # via
     #   pydantic
-    #   pydantic-core
     #   sqlalchemy
     #   typer
 urllib3==2.0.4
