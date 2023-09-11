@@ -9,7 +9,7 @@ sqlalchemy
 enlighten
 psutil
 tabulate
-packaging
+packaging>=22.0
 jsonschema
 beautifulsoup4
 striprtf
