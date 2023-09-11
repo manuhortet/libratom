@@ -86,6 +86,7 @@ psutil==5.9.5
     # via -r requirements.in
 pydantic==2.3.0
     # via
+    #   -r requirements.in
     #   confection
     #   spacy
     #   thinc

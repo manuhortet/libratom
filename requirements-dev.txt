@@ -341,6 +341,7 @@ pycparser==2.21
     # via cffi
 pydantic==2.3.0
     # via
+    #   -r requirements.in
     #   confection
     #   spacy
     #   thinc
