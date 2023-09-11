@@ -339,13 +339,13 @@ pycodestyle==2.11.0
     # via flake8
 pycparser==2.21
     # via cffi
-pydantic==2.3.0
+pydantic==2.0
     # via
     #   -r requirements.in
     #   confection
     #   spacy
     #   thinc
-pydantic-core==2.6.3
+pydantic-core==2.0.1
     # via pydantic
 pyflakes==3.1.0
     # via flake8

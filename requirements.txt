@@ -84,13 +84,13 @@ preshed==3.0.8
     #   thinc
 psutil==5.9.5
     # via -r requirements.in
-pydantic==2.3.0
+pydantic==2.0
     # via
     #   -r requirements.in
     #   confection
     #   spacy
     #   thinc
-pydantic-core==2.6.3
+pydantic-core==2.0.1
     # via pydantic
 referencing==0.30.2
     # via
